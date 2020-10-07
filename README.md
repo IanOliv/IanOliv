@@ -8,7 +8,6 @@
 - 🌱 Learning about **K8s**
 - 💬 Ping me about **Iot**, **typescript**, **react**,**raspberryPi** ,**development**
 - 📫 Reach me: [twitter.com/iangabiel](https://twitter.com/iangabiel)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 
 <!--
