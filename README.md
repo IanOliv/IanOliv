@@ -10,11 +10,11 @@
 - 📫 Reach me: [twitter.com/iangabiel](https://twitter.com/iangabiel)
 
 
-
+<!-- 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IanOliv)](https://github.com/IanOliv/github-profile-trophy)
 
-
+ -->
 
 <!--
 **IanOliv/IanOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
