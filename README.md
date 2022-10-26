@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently working at **IBM**
 - ⚙️ I use daily:  `.js`, `.jsx`, `.html`, `.css`, `.vue`, `.java`
-- 🌱 Learning **K8s**, **Go**. 
+- 🌱 Learning **K8s**, **Go**, **Rust**. 
 - 💬 Ping me about **Iot**, **typescript**, **react**,**raspberryPi** ,**development**
 - 📫 Reach me: [twitter.com/iangabiel](https://twitter.com/iangabiel)
 
