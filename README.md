@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![An image of @ianoliv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ianoliv)](https://holopin.io/@ianoliv)
 ##### I am 👨‍💻 Full-Stack Developer who is exploring Cloud and Iot Enthusiast. 
  
 
