@@ -4,7 +4,6 @@
 ##### I am 👨‍💻 Full-Stack Developer who is exploring Cloud and Iot Enthusiast. 
  
 
-- 🏢 I'm currently working at **IBM**
 - ⚙️ I use daily:  `.js`, `.tsx`, `.html`, `.css`, `.vue`, `.java`
 - 🌱 Learning **K8s**, **Rust**. 
 - 💬 Ping me about **Iot**, **typescript**, **react**,**raspberryPi** ,**development**
