@@ -1,17 +1,15 @@
 ### Hi there 👋
 
 [![An image of @ianoliv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ianoliv)](https://holopin.io/@ianoliv)
-##### I am 👨‍💻 Full-Stack Developer who is exploring Cloud and Iot Enthusiast. 
+##### I am 👨‍💻 Sr. Infra Analyst who is exploring Cloud and Iot Enthusiast. 
  
 
-- ⚙️ I use daily:  `.js`, `.tsx`, `.html`, `.css`, `.vue`, `.java`
-- 🌱 Learning **K8s**, **Rust**. 
+- ⚙️ I use daily:  `.yaml`, `.tf`, `.Containerfile`, `.py`
+- 🌱 Learning **GitHub Actions**,**terraform**, **Ansible**. 
 - 💬 Ping me about **Iot**, **typescript**, **react**,**raspberryPi** ,**development**
-- 📫 Reach me: [twitter.com/iangabiel](https://twitter.com/iangabiel)
-
 
 <!-- 
-
+f
 [![trophy](https://github-profile-trophy.vercel.app/?username=IanOliv)](https://github.com/IanOliv/github-profile-trophy)
 
  -->
